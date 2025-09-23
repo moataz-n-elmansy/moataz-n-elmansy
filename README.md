@@ -2,6 +2,8 @@
 
 I'm a **Data Analyst** passionate about transforming data into actionable insights using **SQL, Power BI, Excel, and Python**.  
 
+Check out my interactive portfolio: [Moataz Elmansy Portfolio](https://moataz-n-elmansy.github.io/moataz-n-elmansy/)
+
 ---
 
 ## 📜 Certifications
