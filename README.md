@@ -7,7 +7,7 @@ Check out my interactive portfolio: [Moataz Elmansy Portfolio](https://moataz-n-
 ---
 
 ## 📜 Certifications
-- [Power BI Analytics – Empirici Academy](https://badgr.com/public/assertions/pETAglkTQUyJaBiPp_wv6A?identity)
+- [Power BI Analytics – Empirici Academy](https://badgr.com/public/assertions/hen3Y3yUTBOjl7jbK-9uFA?identity)
 - [Data Analysis with Python – Empirici Academy](https://badgr.com/public/assertions/UTUKrp_oQ7akO7psmYvLbg?identity)
 - [SQL Fundamentals – Empirici Academy](https://badgr.com/public/assertions/RaPS_xsbSwmimHF_qbfMOQ?identity)
 - [Statistics Essentials – Empirici Academy](https://badgr.com/public/assertions/pETAglkTQUyJaBiPp_wv6A?identity)
