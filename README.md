@@ -1,7 +1,7 @@
 
 <header>
     <h1>Moataz-N-Elmansy</h1>
-    <h3>Data Analyst | Excel | Power BI | SQL </h3>
+    <h3> Data Analyst | Excel | Power BI | SQL | Python </h3>
 </header>
 
 <section>
