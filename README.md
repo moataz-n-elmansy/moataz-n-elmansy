@@ -14,6 +14,7 @@
         I have completed multiple projects in sales, HR, and energy analytics, and earned professional certifications 
         in Data Analysis and Business Intelligence.  
         My goal is to leverage data to solve business problems and continuously grow my expertise in analytics.
+        <li><i class="fab fa-linkedin icon"></i><a href="https://lnkd.in/eGTzxbPj" target="_blank">🌐 Live Web Page: Moataz Elmansy Portfolio</a></li>
     </p>
 </section>
 
