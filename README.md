@@ -15,6 +15,8 @@
         in Data Analysis and Business Intelligence.  
         My goal is to leverage data to solve business problems and continuously grow my expertise in analytics.
     </p>
+    🌐 Live Web Page: Moataz Elmansy Portfolio
+(https://lnkd.in/eGTzxbPj) 
 </section>
 
 
