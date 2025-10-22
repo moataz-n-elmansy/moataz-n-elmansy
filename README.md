@@ -29,6 +29,20 @@
     <li><i class="fas fa-award icon"></i><a href="https://badgr.com/public/assertions/hen3Y3yUTBOjl7jbK-9uFA?identity" target="_blank">Power BI Analytics – Empirici Academy</a></li>
   
   </ul>
+
+   <li>
+  <i class="fas fa-university icon" aria-hidden="true"></i>
+  <div>
+    <div> 
+🎓 Data Analysis Training Program – Mansoura University (2025)</div>
+    <small>
+      Data Cleaning & Preparation, Exploratory Data Analysis, 
+      Data Visualization (Power BI & Excel), SQL for Data Extraction, 
+      Business KPIs & Decision Making
+    </small>
+  </div>
+</li>
+
 </section>
 
 
@@ -54,17 +68,7 @@
         <li>⚡ <a href="https://github.com/moataz-n-elmansy/Energy-Consumptions-" target="_blank">Energy Consumptions Analysis</a></li>
         <li>👟 <a href="https://github.com/moataz-n-elmansy/Adidas-sales" target="_blank">Adidas Sales Dashboard</a></li>
     </ul>
-    <li>
-  <i class="fas fa-university icon" aria-hidden="true"></i>
-  <div>
-    <div>Data Analysis Training Program – Mansoura University (2025)</div>
-    <small>
-      Data Cleaning & Preparation, Exploratory Data Analysis, 
-      Data Visualization (Power BI & Excel), SQL for Data Extraction, 
-      Business KPIs & Decision Making
-    </small>
-  </div>
-</li>
+   
 </section>
 
 <section>
