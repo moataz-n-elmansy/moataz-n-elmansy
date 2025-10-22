@@ -10,6 +10,7 @@
  
 </section>
 
+
 <section>
   <h2>📜 Certifications</h2>
   
@@ -18,15 +19,6 @@
     <li><i class="fas fa-award icon"></i><a href="https://badgr.com/public/assertions/RaPS_xsbSwmimHF_qbfMOQ?identity" target="_blank">SQL Fundamentals – Empirici Academy</a></li>
     <li><i class="fas fa-award icon"></i><a href="https://badgr.com/public/assertions/pETAglkTQUyJaBiPp_wv6A?identity" target="_blank">Statistics Essentials – Empirici Academy</a></li>
     <li><i class="fas fa-award icon"></i><a href="https://badgr.com/public/assertions/UTUKrp_oQ7akO7psmYvLbg?identity" target="_blank">Data Analysis with Python – Empirici Academy</a></li>
-
-    <li>
-      <i class="fas fa-university icon"></i>
-      <span>
-        Data Analysis Training Program – Mansoura University (2025)
-        <br>
-        <small>Data Cleaning & Preparation, Exploratory Data Analysis, Data Visualization (Power BI & Excel), SQL for Data Extraction, Business KPIs & Decision Making</small>
-      </span>
-    </li>
   </ul>
 </section>
 
