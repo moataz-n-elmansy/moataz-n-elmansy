@@ -42,6 +42,7 @@
 <section>
     <h2>📂 Featured Projects</h2>
     <ul>
+         <li>📚 <a href="https://github.com/moataz-n-elmansy/Udemy-Online-Courses" target="_blank">Car Sales Analysis</a></li> 
          <li>📚 <a href="https://github.com/moataz-n-elmansy/Udemy-Online-Courses" target="_blank">Udemy Online Courses Analysis</a></li>
         <li>📊 <a href="https://github.com/moataz-n-elmansy/Employee-Demographics-Salaries" target="_blank">Employee Demographics & Salaries Analysis</a></li>
         <li>☕ <a href="https://github.com/moataz-n-elmansy/Coffee-sales" target="_blank">Coffee Sales Dashboard</a></li>
