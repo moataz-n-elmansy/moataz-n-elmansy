@@ -34,7 +34,7 @@
   <i class="fas fa-university icon" aria-hidden="true"></i>
   <div>
     <div> 
-🎓 Data Analysis Training Program – Mansoura University (2025)</div>
+    🎓 Data Analysis Training Program – Mansoura University (2025)</div>
     <small>
       Data Cleaning & Preparation, Exploratory Data Analysis, 
       Data Visualization (Power BI & Excel), SQL for Data Extraction, 
