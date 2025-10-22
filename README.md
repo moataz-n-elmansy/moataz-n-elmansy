@@ -36,6 +36,8 @@ Focused on transforming data into actionable insights and visual storytelling.
     <li><i class="fas fa-award icon"></i><a href="https://badgr.com/public/assertions/RaPS_xsbSwmimHF_qbfMOQ?identity" target="_blank">SQL Fundamentals – Empirici Academy</a></li>
     <li><i class="fas fa-award icon"></i><a href="https://badgr.com/public/assertions/hen3Y3yUTBOjl7jbK-9uFA?identity" target="_blank">Power BI Analytics – Empirici Academy</a></li>
 
+---
+
 ### 🎓 Data Analysis Training Program – Mansoura University (2025)  
 **Topics Covered:**  
 Data Cleaning & Preparation · Exploratory Data Analysis ·  
