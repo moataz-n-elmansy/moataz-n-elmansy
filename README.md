@@ -7,15 +7,7 @@
 
 <section>
     <h2>👨‍💻 About Me</h2>
-    <p>
-        I am <strong>Moataz Elmansy</strong>, a passionate Data Analyst with a strong foundation in 
-        <strong>SQL, Power BI, and Excel</strong>. I enjoy transforming raw data into meaningful insights 
-        and interactive dashboards that support decision-making.  
-        I have completed multiple projects in sales, HR, and energy analytics, and earned professional certifications 
-        in Data Analysis and Business Intelligence.  
-        My goal is to leverage data to solve business problems and continuously grow my expertise in analytics.
-        <li><i class="fab fa-linkedin icon"></i><a href="https://moataz-n-elmansy.github.io/moataz-n-elmansy/" target="_blank">🌐 Live Web Page: Moataz Elmansy Portfolio</a></li>
-    </p>
+ 
 </section>
 
 <section>
