@@ -12,20 +12,7 @@
 
 <section>
   <h2>📜 Certifications</h2>
-    <p>
-       Data Analysis Training Program  
-Mansoura University — 2025
-
-Covered Skills:  
-- Data Cleaning & Preparation  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization with Power BI & Excel  
-- SQL for Data Extraction and Reporting  
-- Business KPIs and Data-Driven Decision Making  
-
-A comprehensive program focused on transforming raw data into actionable business insights.
-
-    </p>
+  
      <ul>  
       <li><i class="fas fa-award icon"></i><a href="https://badgr.com/public/assertions/hen3Y3yUTBOjl7jbK-9uFA?identity" target="_blank">Power BI Analytics – Empirici Academy</a></li>
     <li><i class="fas fa-award icon"></i><a href="https://badgr.com/public/assertions/RaPS_xsbSwmimHF_qbfMOQ?identity" target="_blank">SQL Fundamentals – Empirici Academy</a></li>
