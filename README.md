@@ -20,10 +20,7 @@
 
 <section>
   <h2>📜 Certifications</h2>
-  
-       <li><i class="fas fa-award icon"></i>" target="_blank"> Analysis Training Program  – Mansoura University 2025</a></li>                                                                Data Cleaning and Preparation, Exploratory Data Analysis, Data Visualization with Power BI & Excel, SQL for Data Extraction and Reporting, Business KPIs and Data-Driven Decision         Making
-   <ul>  
-
+     <ul>  
       <li><i class="fas fa-award icon"></i><a href="https://badgr.com/public/assertions/hen3Y3yUTBOjl7jbK-9uFA?identity" target="_blank">Power BI Analytics – Empirici Academy</a></li>
     <li><i class="fas fa-award icon"></i><a href="https://badgr.com/public/assertions/RaPS_xsbSwmimHF_qbfMOQ?identity" target="_blank">SQL Fundamentals – Empirici Academy</a></li>
     <li><i class="fas fa-award icon"></i><a href="https://badgr.com/public/assertions/pETAglkTQUyJaBiPp_wv6A?identity" target="_blank">Statistics Essentials – Empirici Academy</a></li>
