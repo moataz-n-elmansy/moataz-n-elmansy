@@ -7,22 +7,26 @@
 
 <section>
     <h2>👨‍💻 About Me</h2>
- 
+  <p>
+        I am <strong>Moataz Elmansy</strong>, a passionate Data Analyst with a strong foundation in 
+        <strong>SQL, Power BI, and Excel</strong>. I enjoy transforming raw data into meaningful insights 
+        and interactive dashboards that support decision-making.  
+        I have completed multiple projects in sales, HR, and energy analytics, and earned professional certifications 
+        in Data Analysis and Business Intelligence.  
+        My goal is to leverage data to solve business problems and continuously grow my expertise in analytics.
+    </p>
 </section>
 
 
 <section>
   <h2>📜 Certifications</h2>
-  
-  <ul>  
-    <li><i class="fas fa-award icon"></i><a href="https://badgr.com/public/assertions/hen3Y3yUTBOjl7jbK-9uFA?identity" target="_blank">Power BI Analytics – Empirici Academy</a></li>
-    <li><i class="fas fa-award icon"></i><a href="https://badgr.com/public/assertions/RaPS_xsbSwmimHF_qbfMOQ?identity" target="_blank">SQL Fundamentals – Empirici Academy</a></li>
+  <ul>
     <li><i class="fas fa-award icon"></i><a href="https://badgr.com/public/assertions/pETAglkTQUyJaBiPp_wv6A?identity" target="_blank">Statistics Essentials – Empirici Academy</a></li>
     <li><i class="fas fa-award icon"></i><a href="https://badgr.com/public/assertions/UTUKrp_oQ7akO7psmYvLbg?identity" target="_blank">Data Analysis with Python – Empirici Academy</a></li>
+    <li><i class="fas fa-award icon"></i><a href="https://badgr.com/public/assertions/RaPS_xsbSwmimHF_qbfMOQ?identity" target="_blank">SQL Fundamentals – Empirici Academy</a></li>
+    <li><i class="fas fa-award icon"></i><a href="https://badgr.com/public/assertions/hen3Y3yUTBOjl7jbK-9uFA?identity" target="_blank">Power BI Analytics – Empirici Academy</a></li>
   </ul>
 </section>
-
-
 
 
 
