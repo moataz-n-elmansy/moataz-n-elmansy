@@ -93,7 +93,7 @@ From September 6, 2022 to October 20, 2022
         <li><i class="fab fa-github icon"></i><a href="https://github.com/moataz-n-elmansy" target="_blank">GitHub</a></li>
         <li><i class="fas fa-envelope icon"></i><a href="mailto:moataz.n.elmansy@gmail.com">moataz.n.elmansy@gmail.com</a></li>
         <li><i class="fas fa-phone icon"></i><a href="tel:01099682363">01099682363</a></li>
-         <li><i class="fas fa-phone icon"></i><a href="tel:0544920736">0544920736</a></li>
+        <li><i class="fas fa-phone icon"></i><a href="tel:0544920736">0544920736</a></li>
 
     </ul>
 </section>
