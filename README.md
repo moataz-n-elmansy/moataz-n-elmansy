@@ -16,7 +16,7 @@
         My goal is to leverage data to solve business problems and continuously grow my expertise in analytics.
     </p>
     🌐 Live Web Page: Moataz Elmansy Portfolio
-(file:///C:/Users/hp/Desktop/index.html)) 
+(https://lnkd.in/eGTzxbPj)) 
 </section>
 
 
